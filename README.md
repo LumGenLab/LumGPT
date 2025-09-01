@@ -8,11 +8,11 @@ A complete implementation of a GPT-style transformer language model written in C
 2. Navigate to the folder containing `lum_gpt.cpp`
 3. Paste this command to compile:
    ```bash
-   g++ -std=c++17 -O3 -march=native lum_gpt.cpp -o gpt_model.exe
+   g++ -std=c++17 -O3 -march=native lum_gpt.cpp -o lum_gpt.exe
    ```
 4. You can add more flags like `-ffast-math` or debugging flags if you modified the code and added more features and want to debug the code.
-5. After several seconds, it will compile into `gpt_model.exe`
-6. Just double click `gpt_model.exe` to run!
+5. After several seconds, it will compile into `lum_gpt.exe`
+6. Just double click `lum_gpt.exe` to run!
 
 The program automatically downloads the TinyShakespeare dataset if not present. If the library isn't present which downloads the dataset so it is then recommended to download it manually.
 
