@@ -1,0 +1,42 @@
+# File: gpt_model_v11.py
+
+Vocabulary size: 65
+Number of batches created: 4357
+Starting training...
+Step 0, Time: 0ms
+Loss: 4.5875
+Step 200, Time: 489175ms
+Loss: 3.1597
+Step 400, Time: 488750ms
+Loss: 3.1563
+Step 600, Time: 487708ms
+Loss: 3.2258
+Step 800, Time: 487578ms
+Loss: 3.4291
+Step 1000, Time: 488002ms
+Loss: 3.1963
+Step 1200, Time: 489419ms
+Loss: 3.2432
+Step 1400, Time: 490341ms
+Loss: 3.3920
+Step 1600, Time: 489782ms
+Loss: 3.2265
+Step 1800, Time: 492314ms
+Loss: 3.3536
+Step 2000, Time: 488724ms
+Loss: 3.2377
+
+Generating text (Advanced Sampling: Temp=0.8000, Top-K=40)...
+Prompt: ROMEO:
+Generated: ROMEO:r
+tttnnv,kmr,tbnarsfl Thh tvlep fltlg mloshyld
+ir
+ t:eo n r,dn.e sltoia?tgyr ni bm tnt b, thtchunsr RtCRlonshn'ifntds t c,rlm sb ctind bdksttis,m.tascoyaobldcsn ttrcnddaasin Irttns cit d,od msAitdsc a tag B tll s idn.tmrotan c trta Ie li n lle wfdtnrsaln tsd' tEonlmos n dt i,
+
+ b I bwonsst;wd tl ts tendn
+fh-r aco, ssnltbl ls,catnr,t  i t ctccacers pMt trocnndmissO
+cdnnnedn  iss sse lgnktrl gitcrn mn cir
+Ln I ol: mrsltand lg, werdpwh-rcd
+err ssttdtuhu?sao caimtsoogc te sei wn l bgEss sd
+cmiy
+k f
