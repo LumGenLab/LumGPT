@@ -101,6 +101,7 @@ This is **not just educational** - it's a **full production-grade implementation
 - Memory-efficient design for resource-constrained environments
 - Robust numerical stability
 - Modular, maintainable architecture
+- While the output can be improved, the test was checked on both smaller hyper parameters and slightly increased.
 
 ## Next Version (Coming Soon)
 
