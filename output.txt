@@ -1,4 +1,4 @@
-# File: gpt_model_v11.py
+# File: lum_gpt.cpp
 
 Vocabulary size: 65
 Number of batches created: 4357
@@ -39,4 +39,5 @@ cdnnnedn  iss sse lgnktrl gitcrn mn cir
 Ln I ol: mrsltand lg, werdpwh-rcd
 err ssttdtuhu?sao caimtsoogc te sei wn l bgEss sd
 cmiy
+
 k f
