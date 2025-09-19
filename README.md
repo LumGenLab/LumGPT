@@ -14,7 +14,7 @@ A complete implementation of a GPT-style transformer language model written in C
 5. After several seconds, it will compile into `lum_gpt.exe`
 6. Just double click `lum_gpt.exe` to run!
 
-The program automatically downloads the TinyShakespeare dataset if not present. If the library isn't present which downloads the dataset so it is then recommended to download it manually.
+The program automatically downloads the TinyShakespeare dataset if not present. If the library isn't present which downloads the dataset so it is then recommended to download it (the dataset) manually.
 
 ## Hardware Performance
 
@@ -156,8 +156,6 @@ Current implementation supports:
 ## Future Development
 
 This project represents the foundation for advanced transformer research and development. The upcoming version will push the boundaries of efficient transformer implementation while maintaining the educational clarity of the current version. This version doesn't include the inference support but it will be added in the upcoming version which will allow to train the model once and use the weights and vocabulary files for inference.
-
-**Note:** No contributions accepted - this is a personal research project.
 
 ---
 
