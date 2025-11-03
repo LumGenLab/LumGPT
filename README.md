@@ -93,14 +93,6 @@ batch_size = 6, block_size = 128, d_model = 256, n_heads = 6, n_layers = 6
 - Thread-local random number generation
 - Careful buffer management and reuse
 - In-place operations where possible
-
-## Production Grade Features
-
-This is **not just educational** - it's a **full production-grade implementation** suitable for real applications. The code demonstrates:
-- Industry-standard mathematical implementations
-- Memory-efficient design for resource-constrained environments
-- Robust numerical stability
-- Modular, maintainable architecture
 - While the output can be improved, the test was checked on both smaller hyper parameters and slightly increased.
 
 ## Next Version (Coming Soon)
