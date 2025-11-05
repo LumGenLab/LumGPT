@@ -104,7 +104,6 @@ The next version will include cutting-edge optimizations:
 - **Eigen 3.4.0** integration for ultra-optimized linear algebra
 - **Custom inference engine** with specialized optimizations
 - **Ultra-efficient memory management**
-- **Production inference support**
 
 Both versions are designed for production use with educational value as a bonus.
 
@@ -113,8 +112,7 @@ Both versions are designed for production use with educational value as a bonus.
 1. **First attempt** at transformer implementation from scratch
 2. **Runs on 15+ year old hardware** with excellent performance
 3. **Complete mathematical implementation** with proper gradients
-4. **Production-ready code quality** with comprehensive error handling
-5. **Custom dataset compatibility** with automatic vocabulary building
+4. **Custom dataset compatibility** with automatic vocabulary building
 
 ## Model Configuration
 
