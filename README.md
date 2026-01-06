@@ -105,8 +105,6 @@ The next version will include cutting-edge optimizations:
 - **Custom inference engine** with specialized optimizations
 - **Ultra-efficient memory management**
 
-Both versions are designed for production use with educational value as a bonus.
-
 ## Key Achievements
 
 1. **First attempt** at transformer implementation from scratch
